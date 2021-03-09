@@ -13,6 +13,9 @@ I consider myself a
 - 2019 - 2019: Research assistant at [Junior Research Group Inowas](https://tu-dresden.de/bu/umwelt/hydro/iak/das-institut/nachwuchsforschergruppe-inowas?set_language=en)
 - 2020 - 2020: Research assistant at [Kisters AG](https://www.kisters.de/en/)
 
+#### My current position
+- since 03/2021 - Hydrologist at Bavarian Environmental Agency
+
 #### My life on GH
 - [earthobservations](https://github.com/earthobservations) (organization)
 - [wetterdienst](https://github.com/earthobservations/wetterdienst)
