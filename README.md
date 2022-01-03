@@ -14,7 +14,8 @@ I consider myself a
 - 2020 - 2020: Research assistant at [Kisters AG](https://www.kisters.de/en/)
 
 #### My current position
-- since 03/2021 - Hydrologist at Bavarian Environmental Agency
+- 03/2021 - 12/2021 - Hydrologist at Bavarian Environmental Agency
+- since 01/2022 - Data Engineer at BioNTech SE
 
 #### My life on GH
 - [earthobservations](https://github.com/earthobservations) (organization)
