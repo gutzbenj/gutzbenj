@@ -15,7 +15,7 @@ I consider myself a
 
 #### My current position
 - 03/2021 - 12/2021 - Hydrologist at Bavarian Environmental Agency
-- since 01/2022 - Data Engineer at BioNTech SE
+- 01/2022 - 06/2022 - Data Engineer at BioNTech SE
 
 #### My life on GH
 - [earthobservations](https://github.com/earthobservations) (organization)
