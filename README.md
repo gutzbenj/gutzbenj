@@ -8,13 +8,14 @@ I consider myself a
 
 #### My previous stations
 - 2013 - 2020: Student of Hydrology at TU Dresden
-- 2017 - 2018: Student assistant at [Chair of Meteorology](https://tu-dresden.de/bu/umwelt/hydro/ihm/meteorologie?set_language=en)
-- 2017 - 2018: Research assistant at [GEO-NET Umweltconsulting GmbH](https://geo-net.de/de/home.html)
-- 2019 - 2019: Research assistant at [Junior Research Group Inowas](https://tu-dresden.de/bu/umwelt/hydro/iak/das-institut/nachwuchsforschergruppe-inowas?set_language=en)
-- 2020 - 2020: Research assistant at [Kisters AG](https://www.kisters.de/en/)
-
+- 2017 - 2018: Student assistant @ [Chair of Meteorology](https://tu-dresden.de/bu/umwelt/hydro/ihm/meteorologie?set_language=en)
+- 2017 - 2018: Research assistant @ [GEO-NET Umweltconsulting GmbH](https://geo-net.de/de/home.html)
+- 2019 - 2019: Research assistant @ [Junior Research Group Inowas](https://tu-dresden.de/bu/umwelt/hydro/iak/das-institut/nachwuchsforschergruppe-inowas?set_language=en)
+- 2020 - 2020: Research assistant @ [Kisters AG](https://www.kisters.de/en/)
+- 03/2021 - 12/2021 - Hydrologist @ Bavarian Environmental Agency
+- 01/2022 - 06/2022 - Junior Data Engineer @ BioNTech SE
 #### My current position
-- 03/2021 - 12/2021 - Hydrologist at Bavarian Environmental Agency
+- since 09/2022 Junior Data Engineer @ OTTO Group data.works
 
 #### My life on GH
 - [earthobservations](https://github.com/earthobservations) (organization)
