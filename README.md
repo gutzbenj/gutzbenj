@@ -20,3 +20,5 @@ I consider myself a
 #### My life on GH
 - [earthobservations](https://github.com/earthobservations) (organization)
 - [wetterdienst](https://github.com/earthobservations/wetterdienst)
+
+![gutzbenj's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutzbenj&show_icons=true)
