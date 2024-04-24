@@ -15,7 +15,7 @@ I consider myself a
 - 03/2021 - 12/2021 - Hydrologist @ Bavarian Environmental Agency
 - 01/2022 - 06/2022 - Junior Data Engineer @ BioNTech SE
 #### My current position
-- since 09/2022 Junior Data Engineer @ OTTO Group data.works
+- since 09/2022 Data Engineer @ OTTO Group data.works
 
 #### My life on GH
 - [earthobservations](https://github.com/earthobservations) (organization)
